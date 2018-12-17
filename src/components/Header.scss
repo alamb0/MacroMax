@@ -1,0 +1,22 @@
+.Header{
+    text-align: left;
+
+    .root {
+        flex-grow: 1;
+    }
+    
+    .grow {
+        flex-grow: 1;
+    }
+}
+
+.modal{
+    position: absolute;
+    width: 50%;
+    box-shadow: 5px;
+    padding: 20px;
+    background-color: white;
+    top: 0%;
+    left: 25%;
+    text-align: center;
+}

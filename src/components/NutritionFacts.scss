@@ -1,0 +1,17 @@
+.NutritionFacts{
+    
+    .container{
+        border-style: solid;
+        margin-left: 25%;
+        margin-right: 25%;
+        text-align: left;
+
+        .boldLargeCal{
+            font-size: 150%; 
+        }
+        
+        .boldLarge{
+            font-size: large;
+        }
+    }
+}
