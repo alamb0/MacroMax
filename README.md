@@ -1,7 +1,7 @@
 [Devpost](https://devpost.com/software/macromax)   
 
 
-Attribution 
+Attribution   
 https://livehealthy.chron.com/many-calories-eat-meal-based-2000calorie-diet-6140.html   
 [Favicon](https://www.iconfinder.com/icons/379338/dome_food_icon)   
 
